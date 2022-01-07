@@ -10,14 +10,13 @@ body {
   box-sizing: border-box;
   text-align: center;
   display: block;
-  margin-top: 50%px;
   margin: auto;
   border-radius: 5%;
 }
 
 img {
   width: 38em;
-  float: inherit;
+  /* float: inherit; */
 }
 .app-container {
   min-height: 100vh;
