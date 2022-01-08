@@ -1,3 +1,7 @@
+@font-face {
+  font-family: "banshee";
+  src: url(fonts/bansheestdregular.otf);
+}
 body {
   background-image: url("../img/IMG_5918.jpg");
 }
@@ -26,4 +30,8 @@ img {
 .web-player {
   width: 38em;
   margin-left: 3%;
+}
+
+h1 {
+  font-family: "banshee";
 }
