@@ -22,3 +22,8 @@ img {
   min-height: 100vh;
   display: flex;
 }
+
+.web-player {
+  width: 38em;
+  margin-left: 3%;
+}
